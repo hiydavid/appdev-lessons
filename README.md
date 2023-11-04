@@ -1,5 +1,5 @@
 # App Dev Learning
 ## Lessons
-1. HTLL
+1. HTML & CSS Basics
 
 ...wip...
