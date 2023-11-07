@@ -34,3 +34,15 @@ p {
 li {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.container {
+    display: flex;
+}
+
+.left-section {
+    flex: 1;
+}
+
+.right-section {
+    flex: 2;
+}
