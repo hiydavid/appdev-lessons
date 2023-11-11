@@ -44,8 +44,24 @@ li {
     justify-content: center;
     margin-bottom: 20px;
     padding: 10px;
-    margin: 10px;
-    width: 700px;
+    width: 80%;
+    margin: auto;
+    /* margin: 10px;
+    width: 700px; */
+}
+
+/* Styles for tablet */
+@media screen and (max-width: 768px) {
+    .section-container {
+        width: 90%;
+    }
+}
+
+/* Styles for mobile */
+@media screen and (max-width: 480px) {
+    .section-container {
+        width: 100%;
+    }
 }
 
 /* For the third section */
